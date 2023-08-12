@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="costraintBg">#050c21</color>
+    <color name="text_bg">#504982</color>
+    <color name="edt_hint">#C3C3C3</color>
+    <color name="btn_color">#e93758</color>
+</resources>

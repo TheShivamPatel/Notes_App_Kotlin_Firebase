@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splashtext">Welcome, we are glad to see your here. \n Now you can create notes for free!</string>
+    <string name="no_account_signup">Don\'t have an account <font color="#2196F3"> Register Now</font></string>
+    <string name="hint_email">email@email.com</string>
+    <string name="hint_pass">********</string>
+    <string name="txt_email">Email address</string>
+    <string name="txt_pass">Password</string>
+    <string name="txt_repeat_pass">Repeat Password</string>
+    <string name="register_txt">Register</string>
+    <string name="sign_up_btn">Get Started</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="login_h1">Login</string>
+    <string name="logout_dialog">Are you sure?</string>
+    <string name="forgot_password_txt"> <font color="#2196F3"> Forgot password?</font></string>
+</resources>
